@@ -1,0 +1,13 @@
+Software vs Hardware
+
+we learned about the software and hardware components of a computer
+
+hardware
+  - SSD
+  - ram
+  - GPU
+  - CPU
+  - motherboard
+  
+  
+   some random change in chap-2

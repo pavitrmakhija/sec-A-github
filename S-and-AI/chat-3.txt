@@ -1,0 +1,13 @@
+CLI
+
+navigate computer with terminal 
+  cd
+  mkdir
+  echo
+  rmdir
+  rm -r
+  cp 
+  mv
+  lolcat
+
+ some random change in chap-3

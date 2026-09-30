@@ -1,0 +1,12 @@
+basic introduction to computers
+and thier impact in our lives
+
+types of computers
+ - pc
+ - embedded
+ - super computers
+ - quantum computers
+
+ Juicer is not a computer.
+
+ some random change in chap-1
